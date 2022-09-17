@@ -1,5 +1,8 @@
 @charset "UTF-8";
-body {
-    background-color: rgb(18, 63, 18);
-    
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+:root {
+    --font01: 'Bebas Neue', cursive;
+    --font02: 'iDroid', sans-serif;
 }
